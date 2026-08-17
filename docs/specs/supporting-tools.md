@@ -52,7 +52,7 @@ You may learn more in the [IntelliJ IDEA documentation](https://www.jetbrains.co
 
 ### Dev Container CLI
 
-A dev container command line interface (CLI) that implements this specification. It is in development in the [devcontainers/cli](https://github.com/devcontainers/cli) repo.
+A dev container command line interface (CLI) that implements this specification. It is in development in the [devcontainers/cli](https://github.com/Unity-Billal-mesloub/cli) repo.
 
 ### VS Code extension CLI
 
